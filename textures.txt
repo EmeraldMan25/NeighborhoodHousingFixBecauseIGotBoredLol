@@ -118,7 +118,7 @@ Materials:Topaz Small:114
 Materials:Bronze Ingot:116
 Miscellaneous:Bronze Raw:117
 Materials:Cobalt Ingot:118
-Miscellaneous:Cobalt Raw:1149
+Miscellaneous:Cobalt Raw:119
 Materials:Copper Ingot:120
 Miscellaneous:Copper Raw:121
 Materials:Dark Steel Ingot:122
